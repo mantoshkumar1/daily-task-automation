@@ -73,6 +73,7 @@ docs/_build/
 
 # PyBuilder
 target/
+.idea/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -127,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# user files that need to be uploaded
+upgmgr
+dcoField.tar.gz
