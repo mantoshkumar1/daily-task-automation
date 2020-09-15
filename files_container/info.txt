@@ -1,0 +1,7 @@
+If local files path directory is provided to the application, it tries to find the
+required files in provided local directory and if it cannot find the files, the
+application stops.
+
+However, if the local files path directory is NOT provided, then by default, the
+application looks for required files in this directory (files_container) and if it does
+not find those files here, then application stops.

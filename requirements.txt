@@ -1,2 +1,4 @@
 paramiko==2.7.1
+wget==3.2
+# requests==2.24.0
 # pathlib==1.0.1
